@@ -3,11 +3,13 @@
 Esta es una página estática 404 hecha con el único fin de practicar CSS.
 <br >
 Sientanse libres de usarla, forkearla y hacerle cambios, etc.
-<br>
+<br >
 Proximamente, intentaré hacerla responsive.
-<br />
+<br >
+<br >
 Links para descargar ilustraciones gratuitas:
-<br />
+<br >
+<br >
 https://error404.fun/?ref=lapaninja
-<br />
+<br >
 https://www.kapwing.com/404-illustrations
